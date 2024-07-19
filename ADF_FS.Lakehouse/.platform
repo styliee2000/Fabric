@@ -2,10 +2,10 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
     "type": "Lakehouse",
-    "displayName": "Datacap"
+    "displayName": "ADF_FS"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "9481567b-9c70-4eb7-b69a-86378f142030"
+    "logicalId": "a35c55e2-8ea1-443d-8589-1a3c31ccfaa2"
   }
 }

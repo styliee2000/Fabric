@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "ADF-FS-Class"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "86aec07b-c2e9-421f-baea-7d5af7c9893e"
+  }
+}
